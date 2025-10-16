@@ -44,9 +44,10 @@ class CheckingAccount(Account):
 
 #Accounts 
 accounts = [
-    SavingsAccount("SA004", 2600, 0.5),
-    CheckingAccount("C002", 2435, 100),
-    SavingsAccount("SA007", 39722, 1.4),
-    CheckingAccount("C006",780, 100)
+    SavingsAccount("S29820231", 2600, 0.5),
+    CheckingAccount("C393244029", 2435, 100),
+    SavingsAccount("SA59384857", 39722, 1.4),
+    CheckingAccount("C53567706",780, 100)
       ] 
+
 
